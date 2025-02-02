@@ -8,9 +8,9 @@ Welcome to the **BharatFD** project! This is a Django-based FAQ Management Syste
 - **WYSIWYG Editor Support**: Rich text support for the FAQ answers using the Django CKEditor.
 - **Dynamic Translations**: Automatic translation of FAQ content during object creation, with a fallback to English if translation is unavailable.
 - **REST API**: Fetch FAQs based on a selected language using a dynamic `?lang=` query parameter.
-- **Redis Caching**: Use Redis to cache translations for fast retrieval and efficient performance.
-- **Admin Panel**: User-friendly Django admin interface to manage FAQs easily.
-- **Unit Testing**: Comprehensive unit tests to ensure the application works as expected.
+- **Redis Caching**: Use Redis to cache translations for fast retrieval & efficient performance.
+- **Admin Panel**: User-friendly Django admin interface to manage FAQs.
+- **Unit Testing**: Unit tests to ensure the application works as expected.
 
 ## Demo Video 📽️
 
